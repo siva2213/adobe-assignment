@@ -26,7 +26,7 @@ class CartContainer extends Component {
                       {product.name}
                     </div>
                     <div
-                      className="item-content-desc-action"
+                      className="item-content-desc-action pointer"
                       onClick={() => this.props.onDeleteProduct(product)}
                     >
                       x

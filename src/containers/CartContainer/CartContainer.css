@@ -81,3 +81,7 @@
 .total-content-list:nth-child(5) {
   background-color: #efefef;
 }
+
+.pointer {
+  cursor: pointer;
+}
